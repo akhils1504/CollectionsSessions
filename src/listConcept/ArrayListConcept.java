@@ -8,7 +8,7 @@ public class ArrayListConcept {
 	public static void main(String[] args) {
 
 		//employee class objects
-		Employee emp=new Employee(10, "Tom", 10);
+		Employee emp=new Employee(10000, "Tom", 10);
 		Employee emp1=new Employee(1111, "Dick", 11);
 		
 		
